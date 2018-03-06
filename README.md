@@ -31,3 +31,7 @@ Refererring to figures and tables; use operon: ~\ref{fig1}.
 * You can easily remove the \multicols operator just before the intro to have everything in one column. 
 * By removing the \footnotesize operator just before the start of the M&M section you'll have all text in the same fontsize. 
 * Current font is BT Charter. More fonts available via [TUG](http://www.tug.dk/FontCatalogue/)
+
+
+
+Nb. The example figures are generated using own my own Strava data and [Marcus Volz's](https://github.com/marcusvolz/strava) amazing R code. 
