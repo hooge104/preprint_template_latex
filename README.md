@@ -27,3 +27,5 @@ Please note that copy-pasting from MS Word to Tex will remove all formatting. Th
 * For packages just Google around. There's millions
 * For easy table typesetting I generally use [this page](https://www.tablesgenerator.com/) and copy-paste the output
 * You may decide to use Bibtex for references. Gives you more freedom but may require a bit more work. In this template I've just copy-pasted them as text from MS Word.
+* You can easily remove the \multicols operator just before the intro to have everything in one column. 
+* By removing the \footnotesize operator just before the start of the M&M section you'll have all text in the same fontsize. 
