@@ -16,12 +16,14 @@ Please note that copy-pasting from MS Word to Tex will remove all formatting. Th
 4. Replace All
 5. Repeat for all other necessary formatting you've used:
 
-* For *italics*:   \textit{^&}
-* For **bold**:  \textbf{^&}
-* For underline:  \underline{^&}
+* For *italics*: \textit{^&}
+* For **bold**: \textbf{^&}
+* For underline: \underline{^&}
+
+Refererring to figures and tables; use operon: ~\ref{fig1}. To have it printed bold: \textbf{~\ref{fig1}}
 
 ## Some tips/remarks:
-* To typeset my documents I use PDFlatex under Texmaker on a Mac. Other tex typesetting software should do the job equally well 
+* To typeset my documents I use PDFlatex under Texmaker on Mac. Other tex typesetting software should do the job equally well 
 * There's a wealth of information available on [tex.stackexchange](https://tex.stackexchange.com/)
 * For packages just Google around. There's millions
 * For easy table typesetting I generally use [this page](https://www.tablesgenerator.com/) and copy-paste the output
