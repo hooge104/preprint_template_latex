@@ -1,4 +1,4 @@
-# Preprint template for use in LaTeX
+# Preprint template
 LaTeX template for preprint formatting. LaTeX does have a relatively steep learning curve but once you get the hang of it it'll be amazing. 
 
 Feel free to edit according to your preferences. I give zero promise for correct typesetting or the absence of errors. I've used a memoir class document and I'm aware that this is may not be the right class for a scientific paper. But for me this gives a bit more freedom in typesetting (i.e. I've used this template to typeset my Phd thesis, requiring the possibility to have multiple chapters). 
