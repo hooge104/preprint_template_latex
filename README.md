@@ -34,4 +34,4 @@ Refererring to figures and tables; use operon: ~\ref{fig1}.
 
 
 
-Nb. The example figures are generated using own my own Strava data and [Marcus Volz's](https://github.com/marcusvolz/strava) amazing R code. 
+Nb. The example figures are generated using own my own Strava data and [Marcus Volz](https://github.com/marcusvolz/strava)'s amazing R code. 
