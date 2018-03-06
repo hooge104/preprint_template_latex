@@ -10,11 +10,11 @@ I've used a memoir class document. I'm aware that this is may not be the right c
 4. Upload to BioRixv
 
 Please note that copy-pasting from MS Word to Tex will remove all formatting. The easiest to do is to replace formatted words with the right operator:
-      1. Go to advanced Find & Replace in MS Word
-      2. Under 'Find what': select advanced options; select Format: italics
-      3. Under 'Replace with' type: \textit{^&}
-      4. Replace All
-      5. Repeat for all other necessary formatting you've used:
+1. Go to advanced Find & Replace in MS Word
+2. Under 'Find what': select advanced options; select Format: italics
+3. Under 'Replace with' type: \textit{^&}
+4. Replace All
+5. Repeat for all other necessary formatting you've used:
 
 * For *italics*:   \textit{^&}
 * For **bold**:  \textbf{^&}
@@ -26,3 +26,4 @@ Please note that copy-pasting from MS Word to Tex will remove all formatting. Th
 * There's a wealth of information available on [tex.stackexchange](https://tex.stackexchange.com/)
 * For packages just Google around. There's millions
 * For easy table typesetting I generally use [this page](https://www.tablesgenerator.com/) and copy-paste the output
+* You may decide to use Bibtex for references. Gives you more freedom but may require a bit more work. In this template I've just copy-pasted them as text from MS Word.
