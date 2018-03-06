@@ -5,7 +5,7 @@ I've used a memoir class document. I'm aware that this is may not be the right c
 
 ## How to use:
 1. Pretty simple: copy-paste each paragraph under the right header, replacing \lipsum operator. Rename headers to your needs
-2. Place figures in subfolder named 'Figures'. Rename to something concise, ie. 'Fig1_expression'. Pdf and png files work fine
+2. Place figures in subfolder named 'Figures'. Rename to something concise, ie. 'Fig1_expression'. pdf, png, jpeg files work fine
 3. Let your LateX editor do the job for you
 4. Upload to BioRixv
 
