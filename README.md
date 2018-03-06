@@ -25,7 +25,7 @@ For underline
 
 
 ## Some tips/remarks:
-      - To typeset my documents I use PDFlatex under Texmaker on a Mac. Other tex typesetting software should do the job equally well 
-      - There's a wealth of information available on [tex.stackexchange](https://tex.stackexchange.com/)
-      - For packages just Google around. There's millions
-      - For easy table typesetting I generally use [this page](https://www.tablesgenerator.com/) and copy-paste the output
+* To typeset my documents I use PDFlatex under Texmaker on a Mac. Other tex typesetting software should do the job equally well 
+* There's a wealth of information available on [tex.stackexchange](https://tex.stackexchange.com/)
+* For packages just Google around. There's millions
+* For easy table typesetting I generally use [this page](https://www.tablesgenerator.com/) and copy-paste the output
