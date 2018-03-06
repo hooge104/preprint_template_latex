@@ -16,12 +16,9 @@ Please note that copy-pasting from MS Word to Tex will remove all formatting. Th
       4. Replace All
       5. Repeat for all other necessary formatting you've used:
 
-* For *italics*:
-*  \textit{^&}
-* For **bold**:
-*  \textbf{^&}
-* For underline:
-*  \underline{^&}
+* For *italics*:   \textit{^&}
+* For **bold**:  \textbf{^&}
+* For underline:  \underline{^&}
 
 
 ## Some tips/remarks:
