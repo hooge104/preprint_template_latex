@@ -1,10 +1,10 @@
 # preprint_template_latex
 Latex template for preprint formatting. Feel free to edit according to your preferences. I give zero promise for correct typesetting and errors.
 
-I've used a memoir class document. I'm aware that this is may not be the right class for a scientific paper. But for me this gives a bit more freedom in typesetting (ie. I've used this template my Phd thesis). 
+I've used a memoir class document. I'm aware that this is may not be the right class for a scientific paper. But for me this gives a bit more freedom in typesetting (i.e. I've used this template to typeset my Phd thesis, requiring the possibility to have multiple chapters). 
 
 ## How to use:
-1. Pretty simple: copy-paste each paragraph under the right header, rename to your needs
+1. Pretty simple: copy-paste each paragraph under the right header, replacing \lipsum operator. Rename headers to your needs
 2. Place figures in subfolder named 'Figures'. Rename to something concise, ie. 'Fig1_expression'. Pdf and png files work fine
 3. Let your LateX editor do the job for you
 4. Upload to BioRixv
@@ -19,7 +19,6 @@ Please note that copy-pasting from MS Word to Tex will remove all formatting. Th
 * For *italics*:   \textit{^&}
 * For **bold**:  \textbf{^&}
 * For underline:  \underline{^&}
-
 
 ## Some tips/remarks:
 * To typeset my documents I use PDFlatex under Texmaker on a Mac. Other tex typesetting software should do the job equally well 
