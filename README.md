@@ -20,7 +20,7 @@ Please note that copy-pasting from MS Word to Tex will remove all formatting. Th
 * For **bold**: \textbf{^&}
 * For underline: \underline{^&}
 
-Refererring to figures and tables; use operon: ~\ref{fig1}. To have it printed bold: \textbf{~\ref{fig1}}
+Refererring to figures and tables; use operon: ~\ref{fig1}. 
 
 ## Some tips/remarks:
 * To typeset my documents I use PDFlatex under Texmaker on Mac. Other tex typesetting software should do the job equally well 
