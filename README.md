@@ -3,10 +3,10 @@ LaTeX template for preprint formatting. LaTeX does have a relatively steep learn
 
 Feel free to edit according to your preferences. I give zero promise for correct typesetting or the absence of errors. I've used a memoir class document and I'm aware that this is may not be the right class for a scientific paper. But for me this gives a bit more freedom in typesetting (i.e. I've used this template to typeset my Phd thesis, requiring the possibility to have multiple chapters). 
 
-The attached .tex file contains the minimum (maybe not the bare minimum) number of packages, so in case you want to have more freedom add more packages to your needs. Doing so gives possibility to include page-spanning tables, for example, or have parts of the document printed in landscape format. 
+The attached .tex file contains the minimum (maybe not the bare minimum) amount of packages, so in case you want to have more freedom add more packages to your needs. Doing so gives possibility to include page-spanning tables, for example, or have parts of the document printed in landscape format. 
 
 ## How to use:
-1. Pretty simple: copy-paste each paragraph under the right header, replacing \lipsum operator. Rename headers to your needs
+1. Pretty simple: copy-paste each paragraph under the right header, replacing the \lipsum operator. Rename headers to your needs
 2. Place figures in subfolder named 'Figures'. Rename to something concise, ie. 'Fig1_expression'. pdf, png, jpeg files work fine
 3. Let your LateX editor do the job for you
 4. Upload to BioRixv
