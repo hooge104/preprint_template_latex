@@ -1,7 +1,7 @@
 # preprint_template_latex
-Latex template for preprint formatting. Feel free to edit according to your preferences. I give zero promise for correct typesetting and errors.
+Latex template for preprint formatting. Feel free to edit according to your preferences. I give zero promise for correct typesetting or the absence of errors. I've used a memoir class document and I'm aware that this is may not be the right class for a scientific paper. But for me this gives a bit more freedom in typesetting (i.e. I've used this template to typeset my Phd thesis, requiring the possibility to have multiple chapters). 
 
-I've used a memoir class document. I'm aware that this is may not be the right class for a scientific paper. But for me this gives a bit more freedom in typesetting (i.e. I've used this template to typeset my Phd thesis, requiring the possibility to have multiple chapters). 
+The attached .tex file contains the minimum (maybe not the bare minimum) number of packages, so in case you want to have more freedom add more packages to your needs. Doing so gives possibility to include page-spanning tables, for example, or have parts of the document printed in landscape format. 
 
 ## How to use:
 1. Pretty simple: copy-paste each paragraph under the right header, replacing \lipsum operator. Rename headers to your needs
