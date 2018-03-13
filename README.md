@@ -6,10 +6,11 @@ Feel free to edit according to your preferences. I give zero promise for correct
 The attached .tex file contains the minimum (maybe not the bare minimum) amount of packages, so in case you want to have more freedom add more packages to your needs. Doing so gives possibility to include page-spanning tables, for example, or have parts of the document printed in landscape format. 
 
 ## How to use:
-1. Pretty simple: copy-paste each paragraph under the right header, replacing the \lipsum operator. Rename headers to your needs
+1. Pretty simple: copy-paste each paragraph under the right header, replacing the \lipsum operator. Rename headers to your needs. 
 2. Place figures in subfolder named 'Figures'. Rename to something concise, ie. 'Fig1_expression'. pdf, png, jpeg files work fine
-3. Let your LateX editor do the job for you
-4. Upload to BioRixv
+3. Copy-paste references in format you find most suited
+4. Let your LateX editor do the job for you
+5. Upload to BioRixv
 
 Please note that copy-pasting from MS Word to Tex will remove all formatting. The easiest to do is to replace formatted words with the right operator:
 1. Go to advanced Find & Replace in MS Word
